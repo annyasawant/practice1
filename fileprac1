@@ -10,3 +10,4 @@ driver.manage().window().maximize();
 driver.navigate().refresh();
 driver.navigate().back();
 driver.navigate().forward();
+thread.sleep(2000);
